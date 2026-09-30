@@ -1,9 +1,11 @@
 [package]
 name = "gossip-seed"
 version = "0.1.0"
-description = "A Rust library for Gossip Seed"
+description = "Gossip Seed — Rust implementation with the SuperInstance polyformalism canary wired in."
 license = "MIT OR Apache-2.0"
-repository = "https://github.com/casey-digennaro/gossip-seed"
+repository = "https://github.com/SuperInstance/gossip-seed"
 edition = "2021"
+
+keywords = ["gossip-seed"]
 
 [dependencies]
